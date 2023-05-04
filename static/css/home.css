@@ -1,0 +1,32 @@
+.card {
+    width: 75vw;
+}
+
+h5{
+    display: inline-block;
+}
+
+#headerUsername {
+    display: inline-block;
+}
+
+
+h1 {
+    display: inline-block;
+}
+
+img {
+    display: inline-block;
+}
+
+#howlBox {
+    background-color: rgb(197, 197, 197);
+}
+
+textarea {
+    background: rgb(238, 238, 238) !important;
+}
+.page-header {
+    background: rgb(150, 198, 252);
+}
+

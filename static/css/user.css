@@ -1,0 +1,35 @@
+.card {
+    width: 75vw;
+}
+
+h5{
+    display: inline-block;
+}
+
+h6{
+    display: inline-block;
+}
+
+#headerUsername {
+    display: inline-block;
+}
+
+.page-header {
+    background: rgb(150, 198, 252);
+}
+
+#followsUsername {
+    margin-left: 6px;
+}
+
+h1 {
+    display: inline-block;
+}
+
+h2 {
+    display: inline-block;
+}
+
+img {
+    display: inline-block;
+}
