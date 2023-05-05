@@ -4,5 +4,7 @@ communicates with the backend using REST API, and stores its data in json files.
 whatever is on their mind. It also lets users follow and unfollow others as well as see what they have "howled." 
 Authentication is handled using a custom implementation of JWT, which shows the underlyings of how they work cryptographically.
 
-To run, open the folder and use Docker:
+## How to Run
+1. Final Project folder and use Docker:
 `docker-compose up --build`
+2. The page will be available on localhost at port 80.
